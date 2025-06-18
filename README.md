@@ -1,4 +1,4 @@
-# ops-guide
+# ops-guides
 - https://101.lug.ustc.edu.cn/
 - https://github.com/ustclug/Linux101-docs
 - https://201.ustclug.org/
